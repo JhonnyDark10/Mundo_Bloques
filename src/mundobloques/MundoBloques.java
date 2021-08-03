@@ -10,7 +10,7 @@ import java.util.Stack;
 
 public class MundoBloques {
 
-	//FUNCION PRINCIPAL
+	//FUNCION PRINCIPALl
 	public static void main(String[] args) {
 		MundoBloques bloq = new MundoBloques();
 		System.out.println("----------------------------------");

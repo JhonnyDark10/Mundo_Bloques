@@ -14,7 +14,7 @@ public class Nodos {
     private int num_pila;
     private int numexitos;
     
-    //NODOS PARA PODER RECORRER LAS PILAS
+    //NODOS PARA PODER RECORRERr LAS PILAS
     public Nodos(int num_bloques, int num_pila) {
     	
     	this.num_pila = num_pila;
