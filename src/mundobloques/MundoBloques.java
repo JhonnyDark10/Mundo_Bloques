@@ -13,7 +13,7 @@ public class MundoBloques {
 	//FUNCION PRINCIPAL
 	public static void main(String[] args) {
 		MundoBloques bloq = new MundoBloques();
-		System.out.println("---------------------------------");
+		System.out.println("----------------------------------");
 		System.out.println("---------------------------------");
 		System.out.println("-------Sistemas Expertos---------");
 		System.out.println("---------------------------------");
