@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-Proyecto Mundo Bloques
+Proyecto Mundo Bloques: Se da un estado inicial con numero de pilas e iteraciones el programa se encarga de ordenar en la meta asignado.
 
 Para su desarrollo se uso:
 
